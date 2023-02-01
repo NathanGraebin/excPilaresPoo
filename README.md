@@ -1,7 +1,7 @@
 # CalculadoraTJava
 
 
-Bem, esse projeto é um estudo afim de aprofundar o conhecimento em java
+Bem, esse projeto é um estudo afim de aprofundar o conhecimento em Java
 
 Em primeiro plano a ideia é criar uma calculadora e botões
 
