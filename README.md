@@ -12,4 +12,4 @@ Parte 1 - Aqui é o primeiro resultado da calculadora, já com as operações fu
 
 
 Aqui é o codigo usado para formular as operações
-![operacoes](https://uploaddeimagens.com.br/imagens/SqMtn3g)
+![operacoes](https://uploaddeimagens.com.br/images/004/323/699/full/TJH.png?1675264546)
