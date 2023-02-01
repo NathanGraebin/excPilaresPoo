@@ -3,7 +3,7 @@
 
 Bem, esse projeto é um estudo afim de aprofundar o conhecimento em Java
 
-Em primeiro plano a ideia é criar uma calculadora e botões
+Em primeiro plano a ideia é criar uma calculadora e botões e apos partir para um sistema de cadastro
 
 
 # Parte 1 - Aqui é o primeiro resultado da calculadora, já com as operações funcionando
