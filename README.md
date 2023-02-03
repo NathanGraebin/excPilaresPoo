@@ -1,16 +1,14 @@
 # CalculadoraTJava
 
+4
+Bem, esse é apenas um estudo de Java, e meu primeiro encontro com Interfaces.
 
-Bem, esse projeto é um estudo afim de aprofundar o conhecimento em Java
+A ideia é criar uma calculadora e botões afim de entender como são feitos os chamados
 
-Em primeiro plano a ideia é criar uma calculadora e botões e apos partir para um sistema de cadastro
+Aqui é o primeiro resultado da calculadora, já com as operações funcionando
 
----
+[CALC1](https://uploaddeimagens.com.br/images/004/323/681/full/TJH.png?1675264156)
 
- Aqui é o primeiro resultado da calculadora, já com as operações funcionando
-
-![CALC1](https://uploaddeimagens.com.br/images/004/323/681/full/TJH.png?1675264156)
-
-Esse é o codigo usado para formular as operações
+Esse é o codigo usado para formular
 
 ![operacoes](https://uploaddeimagens.com.br/images/004/323/699/full/TJH.png?1675264546)
